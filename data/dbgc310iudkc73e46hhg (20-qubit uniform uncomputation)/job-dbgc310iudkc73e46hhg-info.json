@@ -1,0 +1,33 @@
+{
+  "backend": "ibm_kingston",
+  "created": "2026-10-27T15:21:40.530557Z",
+  "estimated_running_time_seconds": 3.199117519,
+  "id": "dbgc310iudkc73e46hhg",
+  "cost": 600,
+  "params": {
+    "options": {},
+    "pubs": [
+      [
+        {
+          "__type__": "QuantumCircuit",
+          "__value__": "eJztmWlPVEkYhe/t7fbC1oCKigquuOCCGyoKKoqIqCwq4kbbgrYi0ixuiOLu7PuqP3Lm83xwOH1PEU8yM5nKnWRmEirBpx5SBZVY73npVFd7T0d7bzoUcx1/uKN5zqqd1JATn528m/1K8pshfmHU4Z9sbiw7mZuob2hsaPrF//7UdN4tbHNd87PMcD/4MRhhMkJGyRjpkXEyQZrjpMgispgsIUvJMjJNlpMVZCW5gFxILiKryMXkEnIpWU0uI5eTK8gaspZcSa4iV5NryLXkOrKOXE9uIDeSm8h6cjO5hdxKbiMbyO3kDnInuYvcTTaSe8i95D6yidxPHiCbyRbyIHmIPEy2kkfIo2QbeYxsJ4+THeQJspM8SZ4iT5NdZDfZQ/aSZ8iz5DmyjzxP9pMXyIvkJfIyeYUcIDPkVTJLXiMHySHyOnmDzJE3yVvkMHmbHCHvkKOkqccxcpycICfJu+Q98j75gHxITpGPyGnyMfmEnCGfks/I5+QL8iX5inxNviE/Ij8mPyE/JT8jPye/IL8kvyK/Jr8hvyW/I78nfyB/JH8ifybfZpFoydmkM/+TZvxTSaerXOePR09fW2ZiMD+31v2Ltd39c2vNNYtX1bf2/lb7a7P1L/p7a12LQ7lBDuVarA1ZHCoU5FAhi7Vhi0OFgxwqbLE2YnGoSJBDRSzWRi0OFQ1yqKjF2pjFoWJBDhWzWOtZHMoLcijPYm3c4lDxIIeKW6xNWBwqEeRQibm8/7Nf1jmYGZ8cKyxO+r3FYkcqW1hjsaMIO0I2O4qxI2yzowQ7IjY7SrEjarOjDDtiNjvS2OHZ7CjHjrjNjgrsSPjL8Gnq3fvZ4fh/HFQWPixV4sPS+//4KJz0jeO5mZFsbng482+fZ37Mj/nx/x0mQPMmRfPMRNf/C5WTiJlEzSRmJp6ZxM0kYSZJM0mZSZGZFJtJiZmUmkmZmaTNpNxMKswEw2ME8uQfaEg1rBpRjarGVD3VuGpCNamaUi1SLVYtUS1VLVNNq5arVqhWqi5QXai6SLVKdbHqEtWlqtWqy1SXq65QrVGtVV2pukp1teoa1bWq61TrVNerblDdqLpJtV51s+oW1a2q21QbVLer7lDdqbpLdbdqo+oe1b2q+1SbVPerHlBtVm1RPah6SPWwaqvqEdWjqm2qx1TbVY+rdqieUO1UPal6SvW0apdqt2qPaq/qGdWzqudU+1TPq/arXlC9qHpJ9bLqFdUB1YzqVdWs6jXVQdUh1euqN1RzqjdVb6kOq95WHVG9ozqqmlcdUx1XnVCdVL2rek/1vuoD1YeqU6qPVKdVH6s+UZ1Rfar6TPW56gvVl6qvVF+rYriO3+HR1tHL0cALXdvx+zOaMjox2i96LhotuitaKvoomic6JtokeiMaIrogWh/6HZocOhvaGXoYGhe6FVpUjeM3I3QgtB30GjQYdBW0EvQPNA10CrQH9AQ0AqQ/Ih85j3BHoiPGkd0IbKQ0ohl5jBBG8iJukbEIVqQpIrTF8cMSCYlYRBYiAJF6iDrkG0INSYb4QmYhqJBOiCTkEMIHiYOYQbYgUJAiiA7kBUICyYA4QAag8FHtKPEBxy9mVDDKFrWKAkVVohRRfyg6VBrKCzWFQkL1oGRQJygOVATKAHcfFx63HFcb9xmXGDcX1xV3FBcTtxFXcMbxLxtuGK4V7hIuEG4NrgoeKfBAgccJPEzgUQIPEniMwEMEHiHwAIHHBzw84NEBDw54bMBDAx4Z8MCAx4W3vwNoG5vY"
+        },
+        {
+          "__type__": "ndarray",
+          "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RoGOpo6CrUKFAAuAFOzG1s="
+        },
+        1000
+      ]
+    ],
+    "support_qiskit": true,
+    "version": 2
+  },
+  "program": {
+    "id": "sampler"
+  },
+  "state": {
+    "status": "Completed"
+  },
+  "status": "Completed",
+  "user_id": "IBMid-6940026MNF"
+}

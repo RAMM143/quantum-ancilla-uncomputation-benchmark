@@ -1,0 +1,79 @@
+{
+  "__type__": "PrimitiveResult",
+  "__value__": {
+    "pub_results": [
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "c"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "c": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJytVLGOwjAMTaJMTPmEbDmkDuVGpkxsd2JhYEIV9HTDCVDLsQAS/8APUxBt08ZxXeBJlVL7+dm1U1++Z1/TOWd7djCrNF9mZqzN8X9kIm1+NtkuS9aLTbZKb/ZJ8penhT3/TbZp8f4xiuM40p/DSJ/0cxgwD9w3MSaLR0EOFM0IeVfphsMS9fEMk7lsx6B1aCIPA3/kw7UqiG7Kq6D1lQ716ITFac6XtTsXrqiel6pOstIITyDkgezKq6D/3e0DSv8bHGGBuLYKqipKRv1lllBFzyzg7YUWhKVoEThdcyr9mpTNV7NwHHfZlD3lM2zQE45hyLZ1oRh1uk258t8KxYa7jXdA3hN1dan0u9n9jBI4IZri3bvuBqwq2I/jHTVSc/LmzbsC1XMhoQ=="
+                    },
+                    "num_bits": 10
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {},
+            "compilation": {
+              "scheduler_timing": null,
+              "stretch_values": null
+            }
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "execution": {
+        "execution_spans": {
+          "__type__": "ExecutionSpans",
+          "__value__": {
+            "spans": [
+              {
+                "__type__": "DoubleSliceSpan",
+                "__value__": {
+                  "start": {
+                    "__type__": "datetime",
+                    "__value__": "2026-10-27T15:24:27.834234"
+                  },
+                  "stop": {
+                    "__type__": "datetime",
+                    "__value__": "2026-10-27T15:24:31.674858"
+                  },
+                  "data_slices": {
+                    "0": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "version": 2
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "__type__": "PrimitiveResult",
+  "__value__": {
+    "pub_results": [
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydVj1v2zAQvWtlQOlE/wNlUgt4cNAtE7t0a+ClQ6fCSBxkCJLCTru0Bazf0F/QfxqLFKn7IltEIAzq/Pju8d1R0p+rz582XxB+wM/+Zne43veXXf/r+0W/6vrbx/3Tfvvw9XF/sxvjH7f3h90pfrjbftud7t9erNfrVff+3ar73b3segOAMF4IPk2m3zgZyG0YLsahzWCHDJDxiE3EI2cYx+uQDiU5zmsFWzvNuULP8y6QiElgJxJlDlQD2EJPVWX8B+IY5Qk+uHg7wBE4IZcEWpIWo2EiaMRbic/zobBxkwdI3NyIxLc2hlysCgDLEmE9YgnwFauNtUHq36nBULHZGSsFgnQi6vUq2au3g/xAAcpKQRNvMfw2MX4WfgeW5cibfy79YvLtNPX/NB/kQyBzypOl/acGDoBDkk3wqHxGYBqcOOZpCFiupktUDQM0VLwjS4xdUP0he6bqCJI+o/wcJwW2/PEl07jJSkYbzkyxqZZ64ZIYtSBrzy0nQdXCrGmlVWj8OHswkgpMaL8NJ9G2RCNdK5uB3LYxg9kepkgnChfEyF3LCRqEJSsGUjW6F7Lw+J8mA2zAoJpGbgb5F02fNhs6wRVK5gANbxdsR47WSA1hIOXxUEtd66iC1bl28anbZUC+hoJjhE1+sRRg1tuhMQXn04cgsxAS1Atn5flFZoop/YXymS/n4vMsA5aTHg8zEuhHYLVYWIFxMKKcFIsbx7myXYEdFEh4J8j3csI4VPi0Kmz/FcWPkfjNwIcDlZcMVKq8hTQ+Tc1SGsFn37QyDQ=="
+                    },
+                    "num_bits": 20
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {},
+            "compilation": {
+              "scheduler_timing": null,
+              "stretch_values": null
+            }
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "execution": {
+        "execution_spans": {
+          "__type__": "ExecutionSpans",
+          "__value__": {
+            "spans": [
+              {
+                "__type__": "DoubleSliceSpan",
+                "__value__": {
+                  "start": {
+                    "__type__": "datetime",
+                    "__value__": "2026-10-27T15:26:03.417361"
+                  },
+                  "stop": {
+                    "__type__": "datetime",
+                    "__value__": "2026-10-27T15:26:04.542850"
+                  },
+                  "data_slices": {
+                    "0": [
+                      [
+                        1000
+                      ],
+                      0,
+                      1,
+                      0,
+                      1000
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "version": 2
+    }
+  }
+}

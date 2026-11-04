@@ -1,0 +1,33 @@
+{
+  "backend": "ibm_kingston",
+  "created": "2026-10-27T15:19:37.552761Z",
+  "estimated_running_time_seconds": 3.199117519,
+  "id": "dbgc22djm0ks73egaq2g",
+  "cost": 600,
+  "params": {
+    "options": {},
+    "pubs": [
+      [
+        {
+          "__type__": "QuantumCircuit",
+          "__value__": "eJztmNdPFFEchWe2w2JBLIgoYEURVKRZEFAUEREpKqAi6wq6CshSbIBiwd67wj/psw/K2TmXeBI1Tja+cRP85jMzzCTc3zmTaa5vbahvS/cEbMtZ9mCcR9lWuNcKzR7MzP4E+J8e/mBl4p9obCg6GhspLK7Yzv+2xibiduIy2za/yyxzF/MrvKSP9JPmdkEyRKaQqWSYTCMXkAvJReRiMp1cQmaQS8ll5HJyBZlJriSzyFVkNrmaXEPmkLlkHrmWXEeuJzeQG8lNZD65mdxCFpBbyUKyiNxGmr/NDrKY3EmWkKVkGVlOVpC7yN3kHnIvWUnuI6vIarKG3E8eIGvJg+Qhso48TNaTR8gG8ijZSB4jm8jjZDPZQraSbeQJ8iR5imwnO8hO8jR5hjxLdpHnyG4yQp4no+QFsofsJS+Sl8gYeZm8QvaR/eQAeZUcJM08DpHD5Ag5Sl4jr5M3yJvkLXKMHCcnyNvkHXKSvEveI++TD8gp8iH5iHxMPiGfks/I5+QL8iX5inxNviHfku/I9+QH8iP5ifxMfiG/ktNRJFpgNunMX9Ksf006Z5m8s63fr9b2ushIT3zuXPsv57Z0zp1rtlEos7C27XvetyrXN/q3c20XD2Un81C2i3M9Lh7Kk8xDeVyc63XxUN5kHsrr4lyfi4fyJfNQPhfn+l08lD+Zh/LPvWX86WaNPZHh0aHEyQFnzl1cEYwmznFxRQhXeNxckYIrvG6uSMUVPjdXhHGF3zkNb4QzP2aX5QRcWuKFLw0vfD/+80rc6bUVtCMD0VhfX+R/329+za/5Nb/+tEyAxk2KxpmJttPCPPCZA785CJiDoDkImYMUc5BqDsLmACvI6OMdf1GPqlfVp+pXDagGVUOqKaqpqmHVNNUFqgtVF6kuVk1XXaKaobpUdZnqctUVqpmqK1WzVFepZquuVl2jmqOaq5qnulZ1nep61Q2qG1U3qearblbdolqgulW1ULVIdZvqdtUdqsWqO1VLVEtVy1TLVStUd6nuVt2jule1UnWfapVqtWqN6n7VA6q1qgdVD6nWqR5WrVc9otqgelS1UfWYapPqcdVm1RbVVtU21ROqJ1VPqbardqh2qp5WPaN6VrVL9Zxqt2pE9bxqVPWCao9qr+pF1UuqMdXLqldU+1T7VQdUr6oOqsZVh1SHVUdUR1WvqV5XvaF6U/WW6pjquOqE6m3VO6qTqndV76neV32gOqX6UPWR6mPVJ6pPVZ+pPld9ofpS9ZUqlm05bxZ4ncA7BF4cEm8LlvNegJcBvAGg9tH1KHi0Oqoc/Y3SRlOjntHJKGK0LyoXPYtyRaOiRtGdKEy0JKox13JKEM2HukPHodjQZqgw9BbKCg2FWkIXoYDQOqga9AtKBU2C+kBnoCjQDqgE9ADCH4mPmEe2I9CR4ojuassJaSQz4hgZjOBF2iJikasIUyQoYhNZiYBEKiIKkX8IPSQd4g2ZhiBDeiGykFMIJyQSYgjZg8BByiBaui0nRJAciAtkBIIBaYAIwNxj2DHhGGvMMgYYU4tRxXxiKDGJGD/MHAYN04WRwhxheDAxGBPMBgYCU4CtP2k5mxw7G9sZexgbF7sVWxT7EpsROxDbDnsNGwy7ClsJH17x0RUfXPGxFR9a8ZEVH1jxcRUfVvFRFR9Up38CDwhz7g=="
+        },
+        {
+          "__type__": "ndarray",
+          "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RoGOpo6CrUKFAAuAFOzG1s="
+        },
+        1000
+      ]
+    ],
+    "support_qiskit": true,
+    "version": 2
+  },
+  "program": {
+    "id": "sampler"
+  },
+  "state": {
+    "status": "Completed"
+  },
+  "status": "Completed",
+  "user_id": "IBMid-6940026MNF"
+}
